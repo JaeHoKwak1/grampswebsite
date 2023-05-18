@@ -18,6 +18,11 @@ body{
     vertical-align: middle;
 };
 
+img {
+	height: auto;
+	width: auto;
+}
+
   
 /* ----NAV--- */
 
